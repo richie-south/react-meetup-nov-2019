@@ -1,2 +1,2 @@
 # react-meetup-nov-2019
-code for my meetup talk 
+code for my react memory leaks meetup talk :)
